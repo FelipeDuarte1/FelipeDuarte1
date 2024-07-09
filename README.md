@@ -41,7 +41,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FelipeDuarte1/FelipeDuarte1/output/snake.svg" alt="Generate snake animation" />
+![Snake animation](https://raw.githubusercontent.com/FelipeDuarte1/FelipeDuarte1/output/github-contribution-grid-snake-dark.svg)
 
 
 
